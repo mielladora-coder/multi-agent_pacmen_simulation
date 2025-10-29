@@ -1,0 +1,11 @@
+1. Install Dependencies
+
+	pip install pygame
+
+2. Locate Directory
+
+	cd Desktop ('change the directory where you save the Python source file')
+
+3. Run the Simulation
+
+	python multi_pacmen_final.py --mode gui --protocol token
